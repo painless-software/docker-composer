@@ -17,8 +17,9 @@ https://hub.docker.com/r/composer/composer/) image with a customizable entrypoin
 Supported Tags
 --------------
 
-- [`latest`](https://github.com/painless-software/docker-composer/blob/master/Dockerfile) ![Layers](
-https://images.microbadger.com/badges/image/painess/composer:latest.svg) (Composer base image with adapted entrypoint)
+- [`latest`](https://github.com/painless-software/docker-composer/blob/master/Dockerfile) [![Image Layers](
+  https://img.shields.io/imagelayers/layers/painless/composer/latest.svg)](https://imagelayers.io/?images=painless/composer:latest
+  ) (Composer base image with adapted entrypoint)
 
 Usage
 -----
