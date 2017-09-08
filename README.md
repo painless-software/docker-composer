@@ -11,8 +11,8 @@ PHP Composer
 ------------
 
 Convenience wrapper around the well-known dependency manager, for local development with [Docker Compose](
-https://docs.docker.com/compose/) and [PHP](https://php.net/). Extends the official [`composer/composer`](
-https://hub.docker.com/r/composer/composer/) image with a customizable entrypoint to run composer tasks.
+https://docs.docker.com/compose/) and [PHP](https://php.net/). Extends the official PHP [`composer`](
+https://hub.docker.com/r/library/composer/) image with a customizable entrypoint to run composer tasks.
 
 Supported Tags
 --------------
