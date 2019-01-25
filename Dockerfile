@@ -1,3 +1,3 @@
 FROM composer
 
-LABEL maintainer "Peter Bittner <peter@painless.software>"
+LABEL maintainer="Peter Bittner <peter@painless.software>"
